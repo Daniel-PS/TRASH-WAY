@@ -6,4 +6,7 @@ Site onde mostra a localização de pontos de coleta na cidade de São Paulo. Pr
     <img src="https://i.imgur.com/4f2t3kQ.jpg"/>
 
 <img src="https://i.imgur.com/wrWF5gh.png"/>
+<br>
+Link para o projeto:<br>
+http://trashaway.herokuapp.com/
 </p>
