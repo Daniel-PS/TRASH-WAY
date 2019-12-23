@@ -1,5 +1,5 @@
 # TRASH-WAY-PRINCIPAL
 
-Site onde mostra a localização de pontos de coleta na cidade de São Paulo. Projeto realizado pela Estação Hack, curso patrocinado pelo Facebook, e apresentado no Demoday (12/12/2019).
+Site onde mostra a localização de pontos de coleta na cidade de São Paulo. Projeto realizado pela Estação Hack e apresentado no Demoday (12/12/2019).
 
 <img src="https://lh3.googleusercontent.com/55MRCnEZjDw-igkYC0qgmthDoqoy62wo5347O2RFCV7dBer002BgPWCDPXX5IG_IcM2tBhNOt-bdFIdEp5OZRhHU8YPPFp6nXhtRm9CB6nZfhHWG1jla2cguoqaETLzPtGqc4YkV1T-x7HOM-lk0j84PkJQewpvfZ5n_miJSiGlvypStPuwd1ZdNXMjdty3dMV_3UCcDYxFkxPL21trrVo_A_alJTh2nuwRLyjRKXoIVbaqLM0nofuyu7V5iKX9hfCRGGopG8auy-rR5rBOzklWZbGHjwZg7HrCIYUyaXj-zGk6HBOiR2hg7z64HkgHrN9O14mdkXpSg9Dvf288pbIaiDJl0h3KdGztufK3YOI29_cvjiTO06hhhO2TPxCHz83HZG3GaaUWmdPtRToQKaUsRjCgLcdgxWx7iLiYdDeHb84MAwh7GzjrILWFXhFddL2yvovsVmV3VlzzK9KfMOCF2zTnWGn7Ecsy-SLH6ehx7ILfMA8nnZ-fyxdyjg06wM7zQvOhkm4MNW2tueRBGMVCfxSLpTfL9GCZ0HYN_JBo2N-WjTFJVkBYRlvYLgohcLiG8pjH7ljDBMXAD2QBtxlEazTn3ra_LJDtDUOGhvn8FnT6XhtY6Nx2qqQp3nMIcXnBqwmdd7WMqrz2n_qQiHBGQ2qPcyaTCQDaIkJEBg4DR5SFNkrzgN-c=w500-h375-no">
