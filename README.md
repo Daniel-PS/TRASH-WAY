@@ -3,7 +3,7 @@
 Site onde mostra a localização de pontos de coleta na cidade de São Paulo. Projeto realizado pela Estação Hack e apresentado no Demoday (12/12/2019).</p>
 
 <p align="center">
-    <img src="https://imgur.com/wrWF5gh"/>
+    <img src="https://i.imgur.com/4f2t3kQ.jpg"/>
 
-<img src="https://imgur.com/4f2t3kQ"/>
+<img src="https://i.imgur.com/wrWF5gh.png"/>
 </p>
